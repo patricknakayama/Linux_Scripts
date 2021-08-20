@@ -16,12 +16,12 @@ This document contains the following details:
 
 ### Summary
 This document will focus on two Bash scripts used to identify casino employees from a schedule based on arguments provided by a user.
-- The first script `dealer_finder.sh` takes 2 arguments and is fairly simple.
+- The first script `dealer_finder.sh` takes 2 arguments and is very basic.
 - The second script `alt_dealer_finder.sh` is more complex and makes use of nested if/else statements to accept 3 arguments.
 - Both scripts work with the employee schedules located in the `Dealer_schedules` folder.
 
 There are several other standalone scripts located in the `Scripts` folder.
- - These scripts provide a varierty of administrative functions and are covered in the Additional Linux Scripts section.
+ - These scripts provide a variety of administrative functions and are covered in the Additional Linux Scripts section.
 
 ---
 
